@@ -1,1 +1,3 @@
-# Informative-Search-using-A-Algorithm-and-its-comparison-to-uninformed-search-methods-BFS-Dijkstra-
+# Informative-Search-using-A-Algorithm-and-its-comparison-to-uninformed-search-methods-BFS-Dijkstra
+
+Developed an informative search system for a 25x25 Maze using the A* algorithm.Implemented utility functions to support the search algorithm, ensuring efficient search in a given problem space. Conducted a comparative analysis of A* with uninformed search methods, including Breadth First Search (BFS) and Dijkstra's algorithm and evaluated the performance of A* in terms of search efficiency and optimality, and compared it to the performance of BFS and Dijkstra's algorithm. Provided a comprehensive report highlighting the advantages of A* in informative search and its superiority over uninformed search methods.
